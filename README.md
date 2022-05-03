@@ -5,12 +5,13 @@
 # Description
 
 **< 사용한 데이터 셋 >**
+https://drive.google.com/drive/folders/1OU2s36s3xl_Q3jAiplFoghK0iylvnYZO?usp=sharing
 
 -   ETRI 나눔 AI 플랫폼 - 음성 감정 인식 데이터셋
 -   AI 허브 - 감성 대화 말뭉치
 -   ETRI 나눔 AI 플랫폼 - 한국어 멀티 모달 감정 데이터셋 2020
 
-위의 데이터를 활용하여 10가지의 감정과 4가지의강도로 분류하는 알고리즘 개발
+위의 데이터를 활용하여 10가지의 감정과 4가지의 강도로 분류하는 알고리즘 개발
 
 우리는 감정을 제대로 표출해내지 못하는 사람들을 위한 AI 상담 서비스를 기획하였다.
 
